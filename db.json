@@ -1,0 +1,39 @@
+
+{
+    "users" : [
+      {
+        "name" : "Akash Sirohi",
+        "id" : 1, 
+        "company" : "Tiket.com",
+        "role" : "Frontend Engineer Intern",
+        "linkedin" : "https://www.linkedin.com/in/akash-sirohi-676b30202/"
+      },
+      {
+        "name" : "Avinash Sirohi",
+        "id" : 2, 
+        "company" : "TCS",
+        "role" : "Associate Software Engineer",
+        "linkedin" : "https://www.linkedin.com/in/avinashsirohi86/"
+      }
+    ],
+    "interest" : [
+      {
+        "name" : "Savings",
+        "id" : 1,
+        "value" : 3.1,
+        "tenure" : "No Tenure"
+      },
+      {
+        "name" : "FD",
+        "id" : 2,
+        "value" : 3.0,
+        "tenure" : "Minimum 1 Year"
+      },
+      {
+        "name" : "Government Bonds", 
+        "id" : 3,
+        "value" : 7.37,
+        "tenure" : "10 Years" 
+      }
+    ]
+  }
